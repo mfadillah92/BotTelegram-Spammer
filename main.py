@@ -3,21 +3,21 @@ from datetime import datetime
 from urllib.parse import quote_plus
 import time
 
-# Token bot yang didapat dari BotFather
-bot_token = '6775655488:AAGQ4Kea2_dA2u1vsy5DHQGhrPf4yXp2X6I'
-bot_chatID = '6888479668'
+# Ganti dengan bot token & chat id bot telegram scammer
+bot_token = 'token_bot_scammer'
+bot_chatID = 'chat_id_scammer'
 
-# Template pesan dan gambar yang ingin dikirim
+# Pesan dan gambar yang ingin dikirim ke bot telegram scammer
 items_to_send = [
-    {"type": "text", "content": "Tobat Bang!!"},
-    {"type": "image", "content": "https://media.tenor.com/d5iC-CFJaBoAAAAj/miggi-tobat.gif"},
-    {"type": "text", "content": "Bulan Puasa malah nipu."},
-    {"type": "text", "content": "Dapat uang yang ga berkah."},
-    {"type": "text", "content": "Mana APKnya gampang diliat source codenya."},
-    {"type": "text", "content": "Nanti bot telegramnya dispam nangis."},
-    {"type": "text", "content": "Ingat Neraka Bang!!"},
-    {"type": "image", "content": "https://media.tenor.com/DXh9ij18IJ0AAAAM/hell-flame.gif"},    
-    # Tambahkan lebih banyak item sesuai keinginan Anda
+    {"type": "text", "content": "Pesan pertama"},
+    {"type": "image", "content": "url_gambar_yg_ingin_dikirim"},
+    {"type": "text", "content": "Pesan kedua."},
+    {"type": "text", "content": "Pesan ketiga."},
+    {"type": "text", "content": "Pesan keemapt."},
+    {"type": "text", "content": "Pesan kelimas."},
+    {"type": "text", "content": "Pesan keenam."},
+    {"type": "image", "content": "url_gambar_yg_ingin_dikirim"},    
+    # Tambahkan lebih banyak items sesuai keinginan
 ]
 
 # Jeda waktu antara pesan atau gambar dalam satuan detik
