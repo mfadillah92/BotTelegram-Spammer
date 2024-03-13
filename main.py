@@ -13,8 +13,8 @@ items_to_send = [
     {"type": "image", "content": "url_gambar_yg_ingin_dikirim"},
     {"type": "text", "content": "Pesan kedua."},
     {"type": "text", "content": "Pesan ketiga."},
-    {"type": "text", "content": "Pesan keemapt."},
-    {"type": "text", "content": "Pesan kelimas."},
+    {"type": "text", "content": "Pesan keempat."},
+    {"type": "text", "content": "Pesan kelima."},
     {"type": "text", "content": "Pesan keenam."},
     {"type": "image", "content": "url_gambar_yg_ingin_dikirim"},    
     # Tambahkan lebih banyak items sesuai keinginan
